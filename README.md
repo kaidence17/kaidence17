@@ -1,5 +1,5 @@
 # Kaidence 
-## Major: Visual Communication at Eastern Washignotn University.
+## Major: Visual Communication at Eastern Washignton University.
 ## Skills: web design, organization of content.
 ## Superpower: Teleportation
 
